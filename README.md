@@ -17,8 +17,8 @@ Machine Learning • Deep Learning • Natural Language Processing • MLOps •
 Actively seeking roles in **Machine Learning** or **Data Science** where I can contribute, learn, and grow with a team that values innovation and impact.
 
 📫 **Let’s connect**  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/your-profile)  
-- 📧 [your.email@example.com]
+- 🔗 [LinkedIn](https://www.linkedin.com/in/syed-sadath)  
+- 📧 [syedsadath101@gmail.com]
 
 
 
